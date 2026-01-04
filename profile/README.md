@@ -25,6 +25,6 @@ Reverio acts as a personal sandbox for strictly engineered software.
 
 <br>
 
-[Website](https://github.com/reveriolab/.github) &nbsp;&middot;&nbsp; [Contact](mailto:support@reverio.top)
+[Website](https://github.com/reveriolab) &nbsp;&middot;&nbsp; [Contact](mailto:support@reverio.top)
 
 </div>
